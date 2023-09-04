@@ -1,2 +1,2 @@
 # hello-world
-eine kurze Beschreibung
+Das ist ein Test
